@@ -1,3 +1,7 @@
 .O-area{
     filter: brightness(50%);
 }
+
+.bg-view{
+    background: #d3d7da;
+}
